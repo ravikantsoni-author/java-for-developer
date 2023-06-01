@@ -8,7 +8,7 @@ interface Functional_Interface {
 
 // no need to have extra implementation class
 
-// main class
+// main class with lambda
 public class HelloWithLambda {
 
 	public static void main(String[] args) {
