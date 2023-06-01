@@ -1,4 +1,4 @@
-package com.github.ravikantsoni.no_lambda_expression;
+package com.github.ravikantsoni.lambda_expression;
 
 // interface
 interface HelloInterface {	
